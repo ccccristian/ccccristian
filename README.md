@@ -1,5 +1,5 @@
 <div id = "header" align = "center">
-    <img src="https://i.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.webp" width="200" />
+    <img src="https://i.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.webp" width="200" />
     <h1 align = "center">Hi, i'm Cristian</h1>
     <h3 align = "center"> Junior developer from Argentina. I like to learn and I adapt quickly to any situation.</h3>
 </div>
