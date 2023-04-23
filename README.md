@@ -1,15 +1,15 @@
 <div id = "header" align = "center">
     <img src="https://i.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.webp" width="200" />
     <h1 align = "center">Hi, i'm Cristian</h1>
-    <h3 align = "center"> Junior developer from Argentina. I like to learn and I adapt quickly to any situation.</h3>
+    <h3 align = "center"> Junior developer from Argentina</h3>
 </div>
 
 ---
 ### 📜 About Me
 
-- 👉 Knowledge of HTML, CSS, Python.
-- 🏭 I’m interested in Software and Web development.
-- 📝 Currently learning about Django, and working on my personal software project.
+- 👉 Knowledge of HTML, CSS, Python, SQL.
+- 🏭 I’m interested in Software development.
+- 📝 Currently learning more and more.
 
 <div align = "left">
     <h3>🛠 Laguages and tools:</h3>
