@@ -9,7 +9,7 @@
 
 - 👉 Knowledge of HTML, CSS, Python, SQL.
 - 🏭 I’m interested in Software development.
-- 📝 Currently learning more and more.
+- 📝 Currently learning Java.
 
 <div align = "left">
     <h3>🛠 Laguages and tools:</h3>
