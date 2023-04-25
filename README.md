@@ -7,8 +7,8 @@
 ---
 ### 📜 About Me
 
-- 👉 Knowledge of HTML, CSS, Python, SQL.
 - 🏭 I’m interested in Software development.
+- 👉 Take a look at <a href ="https://github.com/ccccristian/PyArt">PyArt</a>, my image editing software.
 - 📝 Currently learning Java.
 
 <div align = "left">
