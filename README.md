@@ -11,6 +11,8 @@
 - 👉 Take a look at <a href ="https://github.com/ccccristian/PyArt">PyArt</a>, my image editing software.
 - 📝 Currently learning Java.
 - 📱 Contact me → +54 11 6658-5074
+
+---
 <div align = "left">
     <h3>🛠 Laguages and tools:</h3>
     <div>
@@ -26,7 +28,6 @@
 
 </div>
 
----
 
 - Python 
 - PyQt6 
