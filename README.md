@@ -22,6 +22,14 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" title = "SQL" alt="SQLITE" width = "40" height = "40"/>&nbsp;
 
 
-    </div>
+</div>
 
 </div>
+
+---
+
+- Python 
+- PyQt6 
+- HTML 
+- CSS3 
+- SQL
